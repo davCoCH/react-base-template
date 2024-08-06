@@ -1,1 +1,22 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+// Define tu color personalizado
+// $indigo-400: #1e1f2a;
+ 
+
+// Añade tu color personalizado a la paleta de colores
+$theme-colors: (
+  "indigo": $indigo-400,
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $info,
+  "warning": $warning,
+  "danger": $danger,
+  "light": $light,
+  "dark": $dark
+);
+
+// Importa el resto de Bootstrap
 @import "bootstrap/scss/bootstrap";
