@@ -1,4 +1,4 @@
-# React Vite Base Template by @Davidnci2
+# React Vite Base Template by @DavCoCH
 
 This template provides a minimal setup to get a React application working with Vite, along with route aliases for cleaner and more maintainable imports.
 
