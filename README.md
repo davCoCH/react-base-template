@@ -19,11 +19,13 @@ The following aliases are configured:
 
 Project Structure
 
-```src/
+```
+src/
 ├── components/        # React components
 ├── assets/
 │   ├── styles/        # CSS/SCSS files
 │   └── images/        # Image assets
 ├── App.jsx            # Main App component
 ├── main.jsx           # Entry point for React
-└── ...                # Other directories and files including: vite.config.js```
+└── ...                # Other directories and files including: vite.config.js
+```
